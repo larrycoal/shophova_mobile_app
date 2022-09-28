@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1096246875024",
+    "project_id": "shophova-24b97",
+    "storage_bucket": "shophova-24b97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096246875024:android:f3c8f2fa745eff8a599915",
+        "android_client_info": {
+          "package_name": "com.example.olayiwola_olanrewaju_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096246875024-ldovemeqkhfb545rbqnqdgeq0fmo27dc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4XPlLTihbD6L6AWG1C_52uew9OA5Qwno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096246875024-ldovemeqkhfb545rbqnqdgeq0fmo27dc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
